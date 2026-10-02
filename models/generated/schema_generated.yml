@@ -1,0 +1,3402 @@
+version: 2
+models:
+  - name: model_l001_b001
+    description: Synthetic model in layer 1, branch 1.
+  - name: model_l001_b002
+    description: Synthetic model in layer 1, branch 2.
+  - name: model_l001_b003
+    description: Synthetic model in layer 1, branch 3.
+  - name: model_l001_b004
+    description: Synthetic model in layer 1, branch 4.
+  - name: model_l001_b005
+    description: Synthetic model in layer 1, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l001_b006
+    description: Synthetic model in layer 1, branch 6.
+  - name: model_l001_b007
+    description: Synthetic model in layer 1, branch 7.
+  - name: model_l001_b008
+    description: Synthetic model in layer 1, branch 8.
+  - name: model_l001_b009
+    description: Synthetic model in layer 1, branch 9.
+  - name: model_l001_b010
+    description: Synthetic model in layer 1, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l001_b011
+    description: Synthetic model in layer 1, branch 11.
+  - name: model_l001_b012
+    description: Synthetic model in layer 1, branch 12.
+  - name: model_l001_b013
+    description: Synthetic model in layer 1, branch 13.
+  - name: model_l001_b014
+    description: Synthetic model in layer 1, branch 14.
+  - name: model_l001_b015
+    description: Synthetic model in layer 1, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l001_b016
+    description: Synthetic model in layer 1, branch 16.
+  - name: model_l001_b017
+    description: Synthetic model in layer 1, branch 17.
+  - name: model_l001_b018
+    description: Synthetic model in layer 1, branch 18.
+  - name: model_l001_b019
+    description: Synthetic model in layer 1, branch 19.
+  - name: model_l001_b020
+    description: Synthetic model in layer 1, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l002_b001
+    description: Synthetic model in layer 2, branch 1.
+  - name: model_l002_b002
+    description: Synthetic model in layer 2, branch 2.
+  - name: model_l002_b003
+    description: Synthetic model in layer 2, branch 3.
+  - name: model_l002_b004
+    description: Synthetic model in layer 2, branch 4.
+  - name: model_l002_b005
+    description: Synthetic model in layer 2, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l002_b006
+    description: Synthetic model in layer 2, branch 6.
+  - name: model_l002_b007
+    description: Synthetic model in layer 2, branch 7.
+  - name: model_l002_b008
+    description: Synthetic model in layer 2, branch 8.
+  - name: model_l002_b009
+    description: Synthetic model in layer 2, branch 9.
+  - name: model_l002_b010
+    description: Synthetic model in layer 2, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l002_b011
+    description: Synthetic model in layer 2, branch 11.
+  - name: model_l002_b012
+    description: Synthetic model in layer 2, branch 12.
+  - name: model_l002_b013
+    description: Synthetic model in layer 2, branch 13.
+  - name: model_l002_b014
+    description: Synthetic model in layer 2, branch 14.
+  - name: model_l002_b015
+    description: Synthetic model in layer 2, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l002_b016
+    description: Synthetic model in layer 2, branch 16.
+  - name: model_l002_b017
+    description: Synthetic model in layer 2, branch 17.
+  - name: model_l002_b018
+    description: Synthetic model in layer 2, branch 18.
+  - name: model_l002_b019
+    description: Synthetic model in layer 2, branch 19.
+  - name: model_l002_b020
+    description: Synthetic model in layer 2, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l003_b001
+    description: Synthetic model in layer 3, branch 1.
+  - name: model_l003_b002
+    description: Synthetic model in layer 3, branch 2.
+  - name: model_l003_b003
+    description: Synthetic model in layer 3, branch 3.
+  - name: model_l003_b004
+    description: Synthetic model in layer 3, branch 4.
+  - name: model_l003_b005
+    description: Synthetic model in layer 3, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l003_b006
+    description: Synthetic model in layer 3, branch 6.
+  - name: model_l003_b007
+    description: Synthetic model in layer 3, branch 7.
+  - name: model_l003_b008
+    description: Synthetic model in layer 3, branch 8.
+  - name: model_l003_b009
+    description: Synthetic model in layer 3, branch 9.
+  - name: model_l003_b010
+    description: Synthetic model in layer 3, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l003_b011
+    description: Synthetic model in layer 3, branch 11.
+  - name: model_l003_b012
+    description: Synthetic model in layer 3, branch 12.
+  - name: model_l003_b013
+    description: Synthetic model in layer 3, branch 13.
+  - name: model_l003_b014
+    description: Synthetic model in layer 3, branch 14.
+  - name: model_l003_b015
+    description: Synthetic model in layer 3, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l003_b016
+    description: Synthetic model in layer 3, branch 16.
+  - name: model_l003_b017
+    description: Synthetic model in layer 3, branch 17.
+  - name: model_l003_b018
+    description: Synthetic model in layer 3, branch 18.
+  - name: model_l003_b019
+    description: Synthetic model in layer 3, branch 19.
+  - name: model_l003_b020
+    description: Synthetic model in layer 3, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l004_b001
+    description: Synthetic model in layer 4, branch 1.
+  - name: model_l004_b002
+    description: Synthetic model in layer 4, branch 2.
+  - name: model_l004_b003
+    description: Synthetic model in layer 4, branch 3.
+  - name: model_l004_b004
+    description: Synthetic model in layer 4, branch 4.
+  - name: model_l004_b005
+    description: Synthetic model in layer 4, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l004_b006
+    description: Synthetic model in layer 4, branch 6.
+  - name: model_l004_b007
+    description: Synthetic model in layer 4, branch 7.
+  - name: model_l004_b008
+    description: Synthetic model in layer 4, branch 8.
+  - name: model_l004_b009
+    description: Synthetic model in layer 4, branch 9.
+  - name: model_l004_b010
+    description: Synthetic model in layer 4, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l004_b011
+    description: Synthetic model in layer 4, branch 11.
+  - name: model_l004_b012
+    description: Synthetic model in layer 4, branch 12.
+  - name: model_l004_b013
+    description: Synthetic model in layer 4, branch 13.
+  - name: model_l004_b014
+    description: Synthetic model in layer 4, branch 14.
+  - name: model_l004_b015
+    description: Synthetic model in layer 4, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l004_b016
+    description: Synthetic model in layer 4, branch 16.
+  - name: model_l004_b017
+    description: Synthetic model in layer 4, branch 17.
+  - name: model_l004_b018
+    description: Synthetic model in layer 4, branch 18.
+  - name: model_l004_b019
+    description: Synthetic model in layer 4, branch 19.
+  - name: model_l004_b020
+    description: Synthetic model in layer 4, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l005_b001
+    description: Synthetic model in layer 5, branch 1.
+  - name: model_l005_b002
+    description: Synthetic model in layer 5, branch 2.
+  - name: model_l005_b003
+    description: Synthetic model in layer 5, branch 3.
+  - name: model_l005_b004
+    description: Synthetic model in layer 5, branch 4.
+  - name: model_l005_b005
+    description: Synthetic model in layer 5, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l005_b006
+    description: Synthetic model in layer 5, branch 6.
+  - name: model_l005_b007
+    description: Synthetic model in layer 5, branch 7.
+  - name: model_l005_b008
+    description: Synthetic model in layer 5, branch 8.
+  - name: model_l005_b009
+    description: Synthetic model in layer 5, branch 9.
+  - name: model_l005_b010
+    description: Synthetic model in layer 5, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l005_b011
+    description: Synthetic model in layer 5, branch 11.
+  - name: model_l005_b012
+    description: Synthetic model in layer 5, branch 12.
+  - name: model_l005_b013
+    description: Synthetic model in layer 5, branch 13.
+  - name: model_l005_b014
+    description: Synthetic model in layer 5, branch 14.
+  - name: model_l005_b015
+    description: Synthetic model in layer 5, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l005_b016
+    description: Synthetic model in layer 5, branch 16.
+  - name: model_l005_b017
+    description: Synthetic model in layer 5, branch 17.
+  - name: model_l005_b018
+    description: Synthetic model in layer 5, branch 18.
+  - name: model_l005_b019
+    description: Synthetic model in layer 5, branch 19.
+  - name: model_l005_b020
+    description: Synthetic model in layer 5, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l006_b001
+    description: Synthetic model in layer 6, branch 1.
+  - name: model_l006_b002
+    description: Synthetic model in layer 6, branch 2.
+  - name: model_l006_b003
+    description: Synthetic model in layer 6, branch 3.
+  - name: model_l006_b004
+    description: Synthetic model in layer 6, branch 4.
+  - name: model_l006_b005
+    description: Synthetic model in layer 6, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l006_b006
+    description: Synthetic model in layer 6, branch 6.
+  - name: model_l006_b007
+    description: Synthetic model in layer 6, branch 7.
+  - name: model_l006_b008
+    description: Synthetic model in layer 6, branch 8.
+  - name: model_l006_b009
+    description: Synthetic model in layer 6, branch 9.
+  - name: model_l006_b010
+    description: Synthetic model in layer 6, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l006_b011
+    description: Synthetic model in layer 6, branch 11.
+  - name: model_l006_b012
+    description: Synthetic model in layer 6, branch 12.
+  - name: model_l006_b013
+    description: Synthetic model in layer 6, branch 13.
+  - name: model_l006_b014
+    description: Synthetic model in layer 6, branch 14.
+  - name: model_l006_b015
+    description: Synthetic model in layer 6, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l006_b016
+    description: Synthetic model in layer 6, branch 16.
+  - name: model_l006_b017
+    description: Synthetic model in layer 6, branch 17.
+  - name: model_l006_b018
+    description: Synthetic model in layer 6, branch 18.
+  - name: model_l006_b019
+    description: Synthetic model in layer 6, branch 19.
+  - name: model_l006_b020
+    description: Synthetic model in layer 6, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l007_b001
+    description: Synthetic model in layer 7, branch 1.
+  - name: model_l007_b002
+    description: Synthetic model in layer 7, branch 2.
+  - name: model_l007_b003
+    description: Synthetic model in layer 7, branch 3.
+  - name: model_l007_b004
+    description: Synthetic model in layer 7, branch 4.
+  - name: model_l007_b005
+    description: Synthetic model in layer 7, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l007_b006
+    description: Synthetic model in layer 7, branch 6.
+  - name: model_l007_b007
+    description: Synthetic model in layer 7, branch 7.
+  - name: model_l007_b008
+    description: Synthetic model in layer 7, branch 8.
+  - name: model_l007_b009
+    description: Synthetic model in layer 7, branch 9.
+  - name: model_l007_b010
+    description: Synthetic model in layer 7, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l007_b011
+    description: Synthetic model in layer 7, branch 11.
+  - name: model_l007_b012
+    description: Synthetic model in layer 7, branch 12.
+  - name: model_l007_b013
+    description: Synthetic model in layer 7, branch 13.
+  - name: model_l007_b014
+    description: Synthetic model in layer 7, branch 14.
+  - name: model_l007_b015
+    description: Synthetic model in layer 7, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l007_b016
+    description: Synthetic model in layer 7, branch 16.
+  - name: model_l007_b017
+    description: Synthetic model in layer 7, branch 17.
+  - name: model_l007_b018
+    description: Synthetic model in layer 7, branch 18.
+  - name: model_l007_b019
+    description: Synthetic model in layer 7, branch 19.
+  - name: model_l007_b020
+    description: Synthetic model in layer 7, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l008_b001
+    description: Synthetic model in layer 8, branch 1.
+  - name: model_l008_b002
+    description: Synthetic model in layer 8, branch 2.
+  - name: model_l008_b003
+    description: Synthetic model in layer 8, branch 3.
+  - name: model_l008_b004
+    description: Synthetic model in layer 8, branch 4.
+  - name: model_l008_b005
+    description: Synthetic model in layer 8, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l008_b006
+    description: Synthetic model in layer 8, branch 6.
+  - name: model_l008_b007
+    description: Synthetic model in layer 8, branch 7.
+  - name: model_l008_b008
+    description: Synthetic model in layer 8, branch 8.
+  - name: model_l008_b009
+    description: Synthetic model in layer 8, branch 9.
+  - name: model_l008_b010
+    description: Synthetic model in layer 8, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l008_b011
+    description: Synthetic model in layer 8, branch 11.
+  - name: model_l008_b012
+    description: Synthetic model in layer 8, branch 12.
+  - name: model_l008_b013
+    description: Synthetic model in layer 8, branch 13.
+  - name: model_l008_b014
+    description: Synthetic model in layer 8, branch 14.
+  - name: model_l008_b015
+    description: Synthetic model in layer 8, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l008_b016
+    description: Synthetic model in layer 8, branch 16.
+  - name: model_l008_b017
+    description: Synthetic model in layer 8, branch 17.
+  - name: model_l008_b018
+    description: Synthetic model in layer 8, branch 18.
+  - name: model_l008_b019
+    description: Synthetic model in layer 8, branch 19.
+  - name: model_l008_b020
+    description: Synthetic model in layer 8, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l009_b001
+    description: Synthetic model in layer 9, branch 1.
+  - name: model_l009_b002
+    description: Synthetic model in layer 9, branch 2.
+  - name: model_l009_b003
+    description: Synthetic model in layer 9, branch 3.
+  - name: model_l009_b004
+    description: Synthetic model in layer 9, branch 4.
+  - name: model_l009_b005
+    description: Synthetic model in layer 9, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l009_b006
+    description: Synthetic model in layer 9, branch 6.
+  - name: model_l009_b007
+    description: Synthetic model in layer 9, branch 7.
+  - name: model_l009_b008
+    description: Synthetic model in layer 9, branch 8.
+  - name: model_l009_b009
+    description: Synthetic model in layer 9, branch 9.
+  - name: model_l009_b010
+    description: Synthetic model in layer 9, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l009_b011
+    description: Synthetic model in layer 9, branch 11.
+  - name: model_l009_b012
+    description: Synthetic model in layer 9, branch 12.
+  - name: model_l009_b013
+    description: Synthetic model in layer 9, branch 13.
+  - name: model_l009_b014
+    description: Synthetic model in layer 9, branch 14.
+  - name: model_l009_b015
+    description: Synthetic model in layer 9, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l009_b016
+    description: Synthetic model in layer 9, branch 16.
+  - name: model_l009_b017
+    description: Synthetic model in layer 9, branch 17.
+  - name: model_l009_b018
+    description: Synthetic model in layer 9, branch 18.
+  - name: model_l009_b019
+    description: Synthetic model in layer 9, branch 19.
+  - name: model_l009_b020
+    description: Synthetic model in layer 9, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l010_b001
+    description: Synthetic model in layer 10, branch 1.
+  - name: model_l010_b002
+    description: Synthetic model in layer 10, branch 2.
+  - name: model_l010_b003
+    description: Synthetic model in layer 10, branch 3.
+  - name: model_l010_b004
+    description: Synthetic model in layer 10, branch 4.
+  - name: model_l010_b005
+    description: Synthetic model in layer 10, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l010_b006
+    description: Synthetic model in layer 10, branch 6.
+  - name: model_l010_b007
+    description: Synthetic model in layer 10, branch 7.
+  - name: model_l010_b008
+    description: Synthetic model in layer 10, branch 8.
+  - name: model_l010_b009
+    description: Synthetic model in layer 10, branch 9.
+  - name: model_l010_b010
+    description: Synthetic model in layer 10, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l010_b011
+    description: Synthetic model in layer 10, branch 11.
+  - name: model_l010_b012
+    description: Synthetic model in layer 10, branch 12.
+  - name: model_l010_b013
+    description: Synthetic model in layer 10, branch 13.
+  - name: model_l010_b014
+    description: Synthetic model in layer 10, branch 14.
+  - name: model_l010_b015
+    description: Synthetic model in layer 10, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l010_b016
+    description: Synthetic model in layer 10, branch 16.
+  - name: model_l010_b017
+    description: Synthetic model in layer 10, branch 17.
+  - name: model_l010_b018
+    description: Synthetic model in layer 10, branch 18.
+  - name: model_l010_b019
+    description: Synthetic model in layer 10, branch 19.
+  - name: model_l010_b020
+    description: Synthetic model in layer 10, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l011_b001
+    description: Synthetic model in layer 11, branch 1.
+  - name: model_l011_b002
+    description: Synthetic model in layer 11, branch 2.
+  - name: model_l011_b003
+    description: Synthetic model in layer 11, branch 3.
+  - name: model_l011_b004
+    description: Synthetic model in layer 11, branch 4.
+  - name: model_l011_b005
+    description: Synthetic model in layer 11, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l011_b006
+    description: Synthetic model in layer 11, branch 6.
+  - name: model_l011_b007
+    description: Synthetic model in layer 11, branch 7.
+  - name: model_l011_b008
+    description: Synthetic model in layer 11, branch 8.
+  - name: model_l011_b009
+    description: Synthetic model in layer 11, branch 9.
+  - name: model_l011_b010
+    description: Synthetic model in layer 11, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l011_b011
+    description: Synthetic model in layer 11, branch 11.
+  - name: model_l011_b012
+    description: Synthetic model in layer 11, branch 12.
+  - name: model_l011_b013
+    description: Synthetic model in layer 11, branch 13.
+  - name: model_l011_b014
+    description: Synthetic model in layer 11, branch 14.
+  - name: model_l011_b015
+    description: Synthetic model in layer 11, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l011_b016
+    description: Synthetic model in layer 11, branch 16.
+  - name: model_l011_b017
+    description: Synthetic model in layer 11, branch 17.
+  - name: model_l011_b018
+    description: Synthetic model in layer 11, branch 18.
+  - name: model_l011_b019
+    description: Synthetic model in layer 11, branch 19.
+  - name: model_l011_b020
+    description: Synthetic model in layer 11, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l012_b001
+    description: Synthetic model in layer 12, branch 1.
+  - name: model_l012_b002
+    description: Synthetic model in layer 12, branch 2.
+  - name: model_l012_b003
+    description: Synthetic model in layer 12, branch 3.
+  - name: model_l012_b004
+    description: Synthetic model in layer 12, branch 4.
+  - name: model_l012_b005
+    description: Synthetic model in layer 12, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l012_b006
+    description: Synthetic model in layer 12, branch 6.
+  - name: model_l012_b007
+    description: Synthetic model in layer 12, branch 7.
+  - name: model_l012_b008
+    description: Synthetic model in layer 12, branch 8.
+  - name: model_l012_b009
+    description: Synthetic model in layer 12, branch 9.
+  - name: model_l012_b010
+    description: Synthetic model in layer 12, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l012_b011
+    description: Synthetic model in layer 12, branch 11.
+  - name: model_l012_b012
+    description: Synthetic model in layer 12, branch 12.
+  - name: model_l012_b013
+    description: Synthetic model in layer 12, branch 13.
+  - name: model_l012_b014
+    description: Synthetic model in layer 12, branch 14.
+  - name: model_l012_b015
+    description: Synthetic model in layer 12, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l012_b016
+    description: Synthetic model in layer 12, branch 16.
+  - name: model_l012_b017
+    description: Synthetic model in layer 12, branch 17.
+  - name: model_l012_b018
+    description: Synthetic model in layer 12, branch 18.
+  - name: model_l012_b019
+    description: Synthetic model in layer 12, branch 19.
+  - name: model_l012_b020
+    description: Synthetic model in layer 12, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l013_b001
+    description: Synthetic model in layer 13, branch 1.
+  - name: model_l013_b002
+    description: Synthetic model in layer 13, branch 2.
+  - name: model_l013_b003
+    description: Synthetic model in layer 13, branch 3.
+  - name: model_l013_b004
+    description: Synthetic model in layer 13, branch 4.
+  - name: model_l013_b005
+    description: Synthetic model in layer 13, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l013_b006
+    description: Synthetic model in layer 13, branch 6.
+  - name: model_l013_b007
+    description: Synthetic model in layer 13, branch 7.
+  - name: model_l013_b008
+    description: Synthetic model in layer 13, branch 8.
+  - name: model_l013_b009
+    description: Synthetic model in layer 13, branch 9.
+  - name: model_l013_b010
+    description: Synthetic model in layer 13, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l013_b011
+    description: Synthetic model in layer 13, branch 11.
+  - name: model_l013_b012
+    description: Synthetic model in layer 13, branch 12.
+  - name: model_l013_b013
+    description: Synthetic model in layer 13, branch 13.
+  - name: model_l013_b014
+    description: Synthetic model in layer 13, branch 14.
+  - name: model_l013_b015
+    description: Synthetic model in layer 13, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l013_b016
+    description: Synthetic model in layer 13, branch 16.
+  - name: model_l013_b017
+    description: Synthetic model in layer 13, branch 17.
+  - name: model_l013_b018
+    description: Synthetic model in layer 13, branch 18.
+  - name: model_l013_b019
+    description: Synthetic model in layer 13, branch 19.
+  - name: model_l013_b020
+    description: Synthetic model in layer 13, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l014_b001
+    description: Synthetic model in layer 14, branch 1.
+  - name: model_l014_b002
+    description: Synthetic model in layer 14, branch 2.
+  - name: model_l014_b003
+    description: Synthetic model in layer 14, branch 3.
+  - name: model_l014_b004
+    description: Synthetic model in layer 14, branch 4.
+  - name: model_l014_b005
+    description: Synthetic model in layer 14, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l014_b006
+    description: Synthetic model in layer 14, branch 6.
+  - name: model_l014_b007
+    description: Synthetic model in layer 14, branch 7.
+  - name: model_l014_b008
+    description: Synthetic model in layer 14, branch 8.
+  - name: model_l014_b009
+    description: Synthetic model in layer 14, branch 9.
+  - name: model_l014_b010
+    description: Synthetic model in layer 14, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l014_b011
+    description: Synthetic model in layer 14, branch 11.
+  - name: model_l014_b012
+    description: Synthetic model in layer 14, branch 12.
+  - name: model_l014_b013
+    description: Synthetic model in layer 14, branch 13.
+  - name: model_l014_b014
+    description: Synthetic model in layer 14, branch 14.
+  - name: model_l014_b015
+    description: Synthetic model in layer 14, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l014_b016
+    description: Synthetic model in layer 14, branch 16.
+  - name: model_l014_b017
+    description: Synthetic model in layer 14, branch 17.
+  - name: model_l014_b018
+    description: Synthetic model in layer 14, branch 18.
+  - name: model_l014_b019
+    description: Synthetic model in layer 14, branch 19.
+  - name: model_l014_b020
+    description: Synthetic model in layer 14, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l015_b001
+    description: Synthetic model in layer 15, branch 1.
+  - name: model_l015_b002
+    description: Synthetic model in layer 15, branch 2.
+  - name: model_l015_b003
+    description: Synthetic model in layer 15, branch 3.
+  - name: model_l015_b004
+    description: Synthetic model in layer 15, branch 4.
+  - name: model_l015_b005
+    description: Synthetic model in layer 15, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l015_b006
+    description: Synthetic model in layer 15, branch 6.
+  - name: model_l015_b007
+    description: Synthetic model in layer 15, branch 7.
+  - name: model_l015_b008
+    description: Synthetic model in layer 15, branch 8.
+  - name: model_l015_b009
+    description: Synthetic model in layer 15, branch 9.
+  - name: model_l015_b010
+    description: Synthetic model in layer 15, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l015_b011
+    description: Synthetic model in layer 15, branch 11.
+  - name: model_l015_b012
+    description: Synthetic model in layer 15, branch 12.
+  - name: model_l015_b013
+    description: Synthetic model in layer 15, branch 13.
+  - name: model_l015_b014
+    description: Synthetic model in layer 15, branch 14.
+  - name: model_l015_b015
+    description: Synthetic model in layer 15, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l015_b016
+    description: Synthetic model in layer 15, branch 16.
+  - name: model_l015_b017
+    description: Synthetic model in layer 15, branch 17.
+  - name: model_l015_b018
+    description: Synthetic model in layer 15, branch 18.
+  - name: model_l015_b019
+    description: Synthetic model in layer 15, branch 19.
+  - name: model_l015_b020
+    description: Synthetic model in layer 15, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l016_b001
+    description: Synthetic model in layer 16, branch 1.
+  - name: model_l016_b002
+    description: Synthetic model in layer 16, branch 2.
+  - name: model_l016_b003
+    description: Synthetic model in layer 16, branch 3.
+  - name: model_l016_b004
+    description: Synthetic model in layer 16, branch 4.
+  - name: model_l016_b005
+    description: Synthetic model in layer 16, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l016_b006
+    description: Synthetic model in layer 16, branch 6.
+  - name: model_l016_b007
+    description: Synthetic model in layer 16, branch 7.
+  - name: model_l016_b008
+    description: Synthetic model in layer 16, branch 8.
+  - name: model_l016_b009
+    description: Synthetic model in layer 16, branch 9.
+  - name: model_l016_b010
+    description: Synthetic model in layer 16, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l016_b011
+    description: Synthetic model in layer 16, branch 11.
+  - name: model_l016_b012
+    description: Synthetic model in layer 16, branch 12.
+  - name: model_l016_b013
+    description: Synthetic model in layer 16, branch 13.
+  - name: model_l016_b014
+    description: Synthetic model in layer 16, branch 14.
+  - name: model_l016_b015
+    description: Synthetic model in layer 16, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l016_b016
+    description: Synthetic model in layer 16, branch 16.
+  - name: model_l016_b017
+    description: Synthetic model in layer 16, branch 17.
+  - name: model_l016_b018
+    description: Synthetic model in layer 16, branch 18.
+  - name: model_l016_b019
+    description: Synthetic model in layer 16, branch 19.
+  - name: model_l016_b020
+    description: Synthetic model in layer 16, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l017_b001
+    description: Synthetic model in layer 17, branch 1.
+  - name: model_l017_b002
+    description: Synthetic model in layer 17, branch 2.
+  - name: model_l017_b003
+    description: Synthetic model in layer 17, branch 3.
+  - name: model_l017_b004
+    description: Synthetic model in layer 17, branch 4.
+  - name: model_l017_b005
+    description: Synthetic model in layer 17, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l017_b006
+    description: Synthetic model in layer 17, branch 6.
+  - name: model_l017_b007
+    description: Synthetic model in layer 17, branch 7.
+  - name: model_l017_b008
+    description: Synthetic model in layer 17, branch 8.
+  - name: model_l017_b009
+    description: Synthetic model in layer 17, branch 9.
+  - name: model_l017_b010
+    description: Synthetic model in layer 17, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l017_b011
+    description: Synthetic model in layer 17, branch 11.
+  - name: model_l017_b012
+    description: Synthetic model in layer 17, branch 12.
+  - name: model_l017_b013
+    description: Synthetic model in layer 17, branch 13.
+  - name: model_l017_b014
+    description: Synthetic model in layer 17, branch 14.
+  - name: model_l017_b015
+    description: Synthetic model in layer 17, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l017_b016
+    description: Synthetic model in layer 17, branch 16.
+  - name: model_l017_b017
+    description: Synthetic model in layer 17, branch 17.
+  - name: model_l017_b018
+    description: Synthetic model in layer 17, branch 18.
+  - name: model_l017_b019
+    description: Synthetic model in layer 17, branch 19.
+  - name: model_l017_b020
+    description: Synthetic model in layer 17, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l018_b001
+    description: Synthetic model in layer 18, branch 1.
+  - name: model_l018_b002
+    description: Synthetic model in layer 18, branch 2.
+  - name: model_l018_b003
+    description: Synthetic model in layer 18, branch 3.
+  - name: model_l018_b004
+    description: Synthetic model in layer 18, branch 4.
+  - name: model_l018_b005
+    description: Synthetic model in layer 18, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l018_b006
+    description: Synthetic model in layer 18, branch 6.
+  - name: model_l018_b007
+    description: Synthetic model in layer 18, branch 7.
+  - name: model_l018_b008
+    description: Synthetic model in layer 18, branch 8.
+  - name: model_l018_b009
+    description: Synthetic model in layer 18, branch 9.
+  - name: model_l018_b010
+    description: Synthetic model in layer 18, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l018_b011
+    description: Synthetic model in layer 18, branch 11.
+  - name: model_l018_b012
+    description: Synthetic model in layer 18, branch 12.
+  - name: model_l018_b013
+    description: Synthetic model in layer 18, branch 13.
+  - name: model_l018_b014
+    description: Synthetic model in layer 18, branch 14.
+  - name: model_l018_b015
+    description: Synthetic model in layer 18, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l018_b016
+    description: Synthetic model in layer 18, branch 16.
+  - name: model_l018_b017
+    description: Synthetic model in layer 18, branch 17.
+  - name: model_l018_b018
+    description: Synthetic model in layer 18, branch 18.
+  - name: model_l018_b019
+    description: Synthetic model in layer 18, branch 19.
+  - name: model_l018_b020
+    description: Synthetic model in layer 18, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l019_b001
+    description: Synthetic model in layer 19, branch 1.
+  - name: model_l019_b002
+    description: Synthetic model in layer 19, branch 2.
+  - name: model_l019_b003
+    description: Synthetic model in layer 19, branch 3.
+  - name: model_l019_b004
+    description: Synthetic model in layer 19, branch 4.
+  - name: model_l019_b005
+    description: Synthetic model in layer 19, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l019_b006
+    description: Synthetic model in layer 19, branch 6.
+  - name: model_l019_b007
+    description: Synthetic model in layer 19, branch 7.
+  - name: model_l019_b008
+    description: Synthetic model in layer 19, branch 8.
+  - name: model_l019_b009
+    description: Synthetic model in layer 19, branch 9.
+  - name: model_l019_b010
+    description: Synthetic model in layer 19, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l019_b011
+    description: Synthetic model in layer 19, branch 11.
+  - name: model_l019_b012
+    description: Synthetic model in layer 19, branch 12.
+  - name: model_l019_b013
+    description: Synthetic model in layer 19, branch 13.
+  - name: model_l019_b014
+    description: Synthetic model in layer 19, branch 14.
+  - name: model_l019_b015
+    description: Synthetic model in layer 19, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l019_b016
+    description: Synthetic model in layer 19, branch 16.
+  - name: model_l019_b017
+    description: Synthetic model in layer 19, branch 17.
+  - name: model_l019_b018
+    description: Synthetic model in layer 19, branch 18.
+  - name: model_l019_b019
+    description: Synthetic model in layer 19, branch 19.
+  - name: model_l019_b020
+    description: Synthetic model in layer 19, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l020_b001
+    description: Synthetic model in layer 20, branch 1.
+  - name: model_l020_b002
+    description: Synthetic model in layer 20, branch 2.
+  - name: model_l020_b003
+    description: Synthetic model in layer 20, branch 3.
+  - name: model_l020_b004
+    description: Synthetic model in layer 20, branch 4.
+  - name: model_l020_b005
+    description: Synthetic model in layer 20, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l020_b006
+    description: Synthetic model in layer 20, branch 6.
+  - name: model_l020_b007
+    description: Synthetic model in layer 20, branch 7.
+  - name: model_l020_b008
+    description: Synthetic model in layer 20, branch 8.
+  - name: model_l020_b009
+    description: Synthetic model in layer 20, branch 9.
+  - name: model_l020_b010
+    description: Synthetic model in layer 20, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l020_b011
+    description: Synthetic model in layer 20, branch 11.
+  - name: model_l020_b012
+    description: Synthetic model in layer 20, branch 12.
+  - name: model_l020_b013
+    description: Synthetic model in layer 20, branch 13.
+  - name: model_l020_b014
+    description: Synthetic model in layer 20, branch 14.
+  - name: model_l020_b015
+    description: Synthetic model in layer 20, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l020_b016
+    description: Synthetic model in layer 20, branch 16.
+  - name: model_l020_b017
+    description: Synthetic model in layer 20, branch 17.
+  - name: model_l020_b018
+    description: Synthetic model in layer 20, branch 18.
+  - name: model_l020_b019
+    description: Synthetic model in layer 20, branch 19.
+  - name: model_l020_b020
+    description: Synthetic model in layer 20, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l021_b001
+    description: Synthetic model in layer 21, branch 1.
+  - name: model_l021_b002
+    description: Synthetic model in layer 21, branch 2.
+  - name: model_l021_b003
+    description: Synthetic model in layer 21, branch 3.
+  - name: model_l021_b004
+    description: Synthetic model in layer 21, branch 4.
+  - name: model_l021_b005
+    description: Synthetic model in layer 21, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l021_b006
+    description: Synthetic model in layer 21, branch 6.
+  - name: model_l021_b007
+    description: Synthetic model in layer 21, branch 7.
+  - name: model_l021_b008
+    description: Synthetic model in layer 21, branch 8.
+  - name: model_l021_b009
+    description: Synthetic model in layer 21, branch 9.
+  - name: model_l021_b010
+    description: Synthetic model in layer 21, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l021_b011
+    description: Synthetic model in layer 21, branch 11.
+  - name: model_l021_b012
+    description: Synthetic model in layer 21, branch 12.
+  - name: model_l021_b013
+    description: Synthetic model in layer 21, branch 13.
+  - name: model_l021_b014
+    description: Synthetic model in layer 21, branch 14.
+  - name: model_l021_b015
+    description: Synthetic model in layer 21, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l021_b016
+    description: Synthetic model in layer 21, branch 16.
+  - name: model_l021_b017
+    description: Synthetic model in layer 21, branch 17.
+  - name: model_l021_b018
+    description: Synthetic model in layer 21, branch 18.
+  - name: model_l021_b019
+    description: Synthetic model in layer 21, branch 19.
+  - name: model_l021_b020
+    description: Synthetic model in layer 21, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l022_b001
+    description: Synthetic model in layer 22, branch 1.
+  - name: model_l022_b002
+    description: Synthetic model in layer 22, branch 2.
+  - name: model_l022_b003
+    description: Synthetic model in layer 22, branch 3.
+  - name: model_l022_b004
+    description: Synthetic model in layer 22, branch 4.
+  - name: model_l022_b005
+    description: Synthetic model in layer 22, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l022_b006
+    description: Synthetic model in layer 22, branch 6.
+  - name: model_l022_b007
+    description: Synthetic model in layer 22, branch 7.
+  - name: model_l022_b008
+    description: Synthetic model in layer 22, branch 8.
+  - name: model_l022_b009
+    description: Synthetic model in layer 22, branch 9.
+  - name: model_l022_b010
+    description: Synthetic model in layer 22, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l022_b011
+    description: Synthetic model in layer 22, branch 11.
+  - name: model_l022_b012
+    description: Synthetic model in layer 22, branch 12.
+  - name: model_l022_b013
+    description: Synthetic model in layer 22, branch 13.
+  - name: model_l022_b014
+    description: Synthetic model in layer 22, branch 14.
+  - name: model_l022_b015
+    description: Synthetic model in layer 22, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l022_b016
+    description: Synthetic model in layer 22, branch 16.
+  - name: model_l022_b017
+    description: Synthetic model in layer 22, branch 17.
+  - name: model_l022_b018
+    description: Synthetic model in layer 22, branch 18.
+  - name: model_l022_b019
+    description: Synthetic model in layer 22, branch 19.
+  - name: model_l022_b020
+    description: Synthetic model in layer 22, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l023_b001
+    description: Synthetic model in layer 23, branch 1.
+  - name: model_l023_b002
+    description: Synthetic model in layer 23, branch 2.
+  - name: model_l023_b003
+    description: Synthetic model in layer 23, branch 3.
+  - name: model_l023_b004
+    description: Synthetic model in layer 23, branch 4.
+  - name: model_l023_b005
+    description: Synthetic model in layer 23, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l023_b006
+    description: Synthetic model in layer 23, branch 6.
+  - name: model_l023_b007
+    description: Synthetic model in layer 23, branch 7.
+  - name: model_l023_b008
+    description: Synthetic model in layer 23, branch 8.
+  - name: model_l023_b009
+    description: Synthetic model in layer 23, branch 9.
+  - name: model_l023_b010
+    description: Synthetic model in layer 23, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l023_b011
+    description: Synthetic model in layer 23, branch 11.
+  - name: model_l023_b012
+    description: Synthetic model in layer 23, branch 12.
+  - name: model_l023_b013
+    description: Synthetic model in layer 23, branch 13.
+  - name: model_l023_b014
+    description: Synthetic model in layer 23, branch 14.
+  - name: model_l023_b015
+    description: Synthetic model in layer 23, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l023_b016
+    description: Synthetic model in layer 23, branch 16.
+  - name: model_l023_b017
+    description: Synthetic model in layer 23, branch 17.
+  - name: model_l023_b018
+    description: Synthetic model in layer 23, branch 18.
+  - name: model_l023_b019
+    description: Synthetic model in layer 23, branch 19.
+  - name: model_l023_b020
+    description: Synthetic model in layer 23, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l024_b001
+    description: Synthetic model in layer 24, branch 1.
+  - name: model_l024_b002
+    description: Synthetic model in layer 24, branch 2.
+  - name: model_l024_b003
+    description: Synthetic model in layer 24, branch 3.
+  - name: model_l024_b004
+    description: Synthetic model in layer 24, branch 4.
+  - name: model_l024_b005
+    description: Synthetic model in layer 24, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l024_b006
+    description: Synthetic model in layer 24, branch 6.
+  - name: model_l024_b007
+    description: Synthetic model in layer 24, branch 7.
+  - name: model_l024_b008
+    description: Synthetic model in layer 24, branch 8.
+  - name: model_l024_b009
+    description: Synthetic model in layer 24, branch 9.
+  - name: model_l024_b010
+    description: Synthetic model in layer 24, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l024_b011
+    description: Synthetic model in layer 24, branch 11.
+  - name: model_l024_b012
+    description: Synthetic model in layer 24, branch 12.
+  - name: model_l024_b013
+    description: Synthetic model in layer 24, branch 13.
+  - name: model_l024_b014
+    description: Synthetic model in layer 24, branch 14.
+  - name: model_l024_b015
+    description: Synthetic model in layer 24, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l024_b016
+    description: Synthetic model in layer 24, branch 16.
+  - name: model_l024_b017
+    description: Synthetic model in layer 24, branch 17.
+  - name: model_l024_b018
+    description: Synthetic model in layer 24, branch 18.
+  - name: model_l024_b019
+    description: Synthetic model in layer 24, branch 19.
+  - name: model_l024_b020
+    description: Synthetic model in layer 24, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l025_b001
+    description: Synthetic model in layer 25, branch 1.
+  - name: model_l025_b002
+    description: Synthetic model in layer 25, branch 2.
+  - name: model_l025_b003
+    description: Synthetic model in layer 25, branch 3.
+  - name: model_l025_b004
+    description: Synthetic model in layer 25, branch 4.
+  - name: model_l025_b005
+    description: Synthetic model in layer 25, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l025_b006
+    description: Synthetic model in layer 25, branch 6.
+  - name: model_l025_b007
+    description: Synthetic model in layer 25, branch 7.
+  - name: model_l025_b008
+    description: Synthetic model in layer 25, branch 8.
+  - name: model_l025_b009
+    description: Synthetic model in layer 25, branch 9.
+  - name: model_l025_b010
+    description: Synthetic model in layer 25, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l025_b011
+    description: Synthetic model in layer 25, branch 11.
+  - name: model_l025_b012
+    description: Synthetic model in layer 25, branch 12.
+  - name: model_l025_b013
+    description: Synthetic model in layer 25, branch 13.
+  - name: model_l025_b014
+    description: Synthetic model in layer 25, branch 14.
+  - name: model_l025_b015
+    description: Synthetic model in layer 25, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l025_b016
+    description: Synthetic model in layer 25, branch 16.
+  - name: model_l025_b017
+    description: Synthetic model in layer 25, branch 17.
+  - name: model_l025_b018
+    description: Synthetic model in layer 25, branch 18.
+  - name: model_l025_b019
+    description: Synthetic model in layer 25, branch 19.
+  - name: model_l025_b020
+    description: Synthetic model in layer 25, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l026_b001
+    description: Synthetic model in layer 26, branch 1.
+  - name: model_l026_b002
+    description: Synthetic model in layer 26, branch 2.
+  - name: model_l026_b003
+    description: Synthetic model in layer 26, branch 3.
+  - name: model_l026_b004
+    description: Synthetic model in layer 26, branch 4.
+  - name: model_l026_b005
+    description: Synthetic model in layer 26, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l026_b006
+    description: Synthetic model in layer 26, branch 6.
+  - name: model_l026_b007
+    description: Synthetic model in layer 26, branch 7.
+  - name: model_l026_b008
+    description: Synthetic model in layer 26, branch 8.
+  - name: model_l026_b009
+    description: Synthetic model in layer 26, branch 9.
+  - name: model_l026_b010
+    description: Synthetic model in layer 26, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l026_b011
+    description: Synthetic model in layer 26, branch 11.
+  - name: model_l026_b012
+    description: Synthetic model in layer 26, branch 12.
+  - name: model_l026_b013
+    description: Synthetic model in layer 26, branch 13.
+  - name: model_l026_b014
+    description: Synthetic model in layer 26, branch 14.
+  - name: model_l026_b015
+    description: Synthetic model in layer 26, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l026_b016
+    description: Synthetic model in layer 26, branch 16.
+  - name: model_l026_b017
+    description: Synthetic model in layer 26, branch 17.
+  - name: model_l026_b018
+    description: Synthetic model in layer 26, branch 18.
+  - name: model_l026_b019
+    description: Synthetic model in layer 26, branch 19.
+  - name: model_l026_b020
+    description: Synthetic model in layer 26, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l027_b001
+    description: Synthetic model in layer 27, branch 1.
+  - name: model_l027_b002
+    description: Synthetic model in layer 27, branch 2.
+  - name: model_l027_b003
+    description: Synthetic model in layer 27, branch 3.
+  - name: model_l027_b004
+    description: Synthetic model in layer 27, branch 4.
+  - name: model_l027_b005
+    description: Synthetic model in layer 27, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l027_b006
+    description: Synthetic model in layer 27, branch 6.
+  - name: model_l027_b007
+    description: Synthetic model in layer 27, branch 7.
+  - name: model_l027_b008
+    description: Synthetic model in layer 27, branch 8.
+  - name: model_l027_b009
+    description: Synthetic model in layer 27, branch 9.
+  - name: model_l027_b010
+    description: Synthetic model in layer 27, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l027_b011
+    description: Synthetic model in layer 27, branch 11.
+  - name: model_l027_b012
+    description: Synthetic model in layer 27, branch 12.
+  - name: model_l027_b013
+    description: Synthetic model in layer 27, branch 13.
+  - name: model_l027_b014
+    description: Synthetic model in layer 27, branch 14.
+  - name: model_l027_b015
+    description: Synthetic model in layer 27, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l027_b016
+    description: Synthetic model in layer 27, branch 16.
+  - name: model_l027_b017
+    description: Synthetic model in layer 27, branch 17.
+  - name: model_l027_b018
+    description: Synthetic model in layer 27, branch 18.
+  - name: model_l027_b019
+    description: Synthetic model in layer 27, branch 19.
+  - name: model_l027_b020
+    description: Synthetic model in layer 27, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l028_b001
+    description: Synthetic model in layer 28, branch 1.
+  - name: model_l028_b002
+    description: Synthetic model in layer 28, branch 2.
+  - name: model_l028_b003
+    description: Synthetic model in layer 28, branch 3.
+  - name: model_l028_b004
+    description: Synthetic model in layer 28, branch 4.
+  - name: model_l028_b005
+    description: Synthetic model in layer 28, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l028_b006
+    description: Synthetic model in layer 28, branch 6.
+  - name: model_l028_b007
+    description: Synthetic model in layer 28, branch 7.
+  - name: model_l028_b008
+    description: Synthetic model in layer 28, branch 8.
+  - name: model_l028_b009
+    description: Synthetic model in layer 28, branch 9.
+  - name: model_l028_b010
+    description: Synthetic model in layer 28, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l028_b011
+    description: Synthetic model in layer 28, branch 11.
+  - name: model_l028_b012
+    description: Synthetic model in layer 28, branch 12.
+  - name: model_l028_b013
+    description: Synthetic model in layer 28, branch 13.
+  - name: model_l028_b014
+    description: Synthetic model in layer 28, branch 14.
+  - name: model_l028_b015
+    description: Synthetic model in layer 28, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l028_b016
+    description: Synthetic model in layer 28, branch 16.
+  - name: model_l028_b017
+    description: Synthetic model in layer 28, branch 17.
+  - name: model_l028_b018
+    description: Synthetic model in layer 28, branch 18.
+  - name: model_l028_b019
+    description: Synthetic model in layer 28, branch 19.
+  - name: model_l028_b020
+    description: Synthetic model in layer 28, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l029_b001
+    description: Synthetic model in layer 29, branch 1.
+  - name: model_l029_b002
+    description: Synthetic model in layer 29, branch 2.
+  - name: model_l029_b003
+    description: Synthetic model in layer 29, branch 3.
+  - name: model_l029_b004
+    description: Synthetic model in layer 29, branch 4.
+  - name: model_l029_b005
+    description: Synthetic model in layer 29, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l029_b006
+    description: Synthetic model in layer 29, branch 6.
+  - name: model_l029_b007
+    description: Synthetic model in layer 29, branch 7.
+  - name: model_l029_b008
+    description: Synthetic model in layer 29, branch 8.
+  - name: model_l029_b009
+    description: Synthetic model in layer 29, branch 9.
+  - name: model_l029_b010
+    description: Synthetic model in layer 29, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l029_b011
+    description: Synthetic model in layer 29, branch 11.
+  - name: model_l029_b012
+    description: Synthetic model in layer 29, branch 12.
+  - name: model_l029_b013
+    description: Synthetic model in layer 29, branch 13.
+  - name: model_l029_b014
+    description: Synthetic model in layer 29, branch 14.
+  - name: model_l029_b015
+    description: Synthetic model in layer 29, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l029_b016
+    description: Synthetic model in layer 29, branch 16.
+  - name: model_l029_b017
+    description: Synthetic model in layer 29, branch 17.
+  - name: model_l029_b018
+    description: Synthetic model in layer 29, branch 18.
+  - name: model_l029_b019
+    description: Synthetic model in layer 29, branch 19.
+  - name: model_l029_b020
+    description: Synthetic model in layer 29, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l030_b001
+    description: Synthetic model in layer 30, branch 1.
+  - name: model_l030_b002
+    description: Synthetic model in layer 30, branch 2.
+  - name: model_l030_b003
+    description: Synthetic model in layer 30, branch 3.
+  - name: model_l030_b004
+    description: Synthetic model in layer 30, branch 4.
+  - name: model_l030_b005
+    description: Synthetic model in layer 30, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l030_b006
+    description: Synthetic model in layer 30, branch 6.
+  - name: model_l030_b007
+    description: Synthetic model in layer 30, branch 7.
+  - name: model_l030_b008
+    description: Synthetic model in layer 30, branch 8.
+  - name: model_l030_b009
+    description: Synthetic model in layer 30, branch 9.
+  - name: model_l030_b010
+    description: Synthetic model in layer 30, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l030_b011
+    description: Synthetic model in layer 30, branch 11.
+  - name: model_l030_b012
+    description: Synthetic model in layer 30, branch 12.
+  - name: model_l030_b013
+    description: Synthetic model in layer 30, branch 13.
+  - name: model_l030_b014
+    description: Synthetic model in layer 30, branch 14.
+  - name: model_l030_b015
+    description: Synthetic model in layer 30, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l030_b016
+    description: Synthetic model in layer 30, branch 16.
+  - name: model_l030_b017
+    description: Synthetic model in layer 30, branch 17.
+  - name: model_l030_b018
+    description: Synthetic model in layer 30, branch 18.
+  - name: model_l030_b019
+    description: Synthetic model in layer 30, branch 19.
+  - name: model_l030_b020
+    description: Synthetic model in layer 30, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l031_b001
+    description: Synthetic model in layer 31, branch 1.
+  - name: model_l031_b002
+    description: Synthetic model in layer 31, branch 2.
+  - name: model_l031_b003
+    description: Synthetic model in layer 31, branch 3.
+  - name: model_l031_b004
+    description: Synthetic model in layer 31, branch 4.
+  - name: model_l031_b005
+    description: Synthetic model in layer 31, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l031_b006
+    description: Synthetic model in layer 31, branch 6.
+  - name: model_l031_b007
+    description: Synthetic model in layer 31, branch 7.
+  - name: model_l031_b008
+    description: Synthetic model in layer 31, branch 8.
+  - name: model_l031_b009
+    description: Synthetic model in layer 31, branch 9.
+  - name: model_l031_b010
+    description: Synthetic model in layer 31, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l031_b011
+    description: Synthetic model in layer 31, branch 11.
+  - name: model_l031_b012
+    description: Synthetic model in layer 31, branch 12.
+  - name: model_l031_b013
+    description: Synthetic model in layer 31, branch 13.
+  - name: model_l031_b014
+    description: Synthetic model in layer 31, branch 14.
+  - name: model_l031_b015
+    description: Synthetic model in layer 31, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l031_b016
+    description: Synthetic model in layer 31, branch 16.
+  - name: model_l031_b017
+    description: Synthetic model in layer 31, branch 17.
+  - name: model_l031_b018
+    description: Synthetic model in layer 31, branch 18.
+  - name: model_l031_b019
+    description: Synthetic model in layer 31, branch 19.
+  - name: model_l031_b020
+    description: Synthetic model in layer 31, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l032_b001
+    description: Synthetic model in layer 32, branch 1.
+  - name: model_l032_b002
+    description: Synthetic model in layer 32, branch 2.
+  - name: model_l032_b003
+    description: Synthetic model in layer 32, branch 3.
+  - name: model_l032_b004
+    description: Synthetic model in layer 32, branch 4.
+  - name: model_l032_b005
+    description: Synthetic model in layer 32, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l032_b006
+    description: Synthetic model in layer 32, branch 6.
+  - name: model_l032_b007
+    description: Synthetic model in layer 32, branch 7.
+  - name: model_l032_b008
+    description: Synthetic model in layer 32, branch 8.
+  - name: model_l032_b009
+    description: Synthetic model in layer 32, branch 9.
+  - name: model_l032_b010
+    description: Synthetic model in layer 32, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l032_b011
+    description: Synthetic model in layer 32, branch 11.
+  - name: model_l032_b012
+    description: Synthetic model in layer 32, branch 12.
+  - name: model_l032_b013
+    description: Synthetic model in layer 32, branch 13.
+  - name: model_l032_b014
+    description: Synthetic model in layer 32, branch 14.
+  - name: model_l032_b015
+    description: Synthetic model in layer 32, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l032_b016
+    description: Synthetic model in layer 32, branch 16.
+  - name: model_l032_b017
+    description: Synthetic model in layer 32, branch 17.
+  - name: model_l032_b018
+    description: Synthetic model in layer 32, branch 18.
+  - name: model_l032_b019
+    description: Synthetic model in layer 32, branch 19.
+  - name: model_l032_b020
+    description: Synthetic model in layer 32, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l033_b001
+    description: Synthetic model in layer 33, branch 1.
+  - name: model_l033_b002
+    description: Synthetic model in layer 33, branch 2.
+  - name: model_l033_b003
+    description: Synthetic model in layer 33, branch 3.
+  - name: model_l033_b004
+    description: Synthetic model in layer 33, branch 4.
+  - name: model_l033_b005
+    description: Synthetic model in layer 33, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l033_b006
+    description: Synthetic model in layer 33, branch 6.
+  - name: model_l033_b007
+    description: Synthetic model in layer 33, branch 7.
+  - name: model_l033_b008
+    description: Synthetic model in layer 33, branch 8.
+  - name: model_l033_b009
+    description: Synthetic model in layer 33, branch 9.
+  - name: model_l033_b010
+    description: Synthetic model in layer 33, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l033_b011
+    description: Synthetic model in layer 33, branch 11.
+  - name: model_l033_b012
+    description: Synthetic model in layer 33, branch 12.
+  - name: model_l033_b013
+    description: Synthetic model in layer 33, branch 13.
+  - name: model_l033_b014
+    description: Synthetic model in layer 33, branch 14.
+  - name: model_l033_b015
+    description: Synthetic model in layer 33, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l033_b016
+    description: Synthetic model in layer 33, branch 16.
+  - name: model_l033_b017
+    description: Synthetic model in layer 33, branch 17.
+  - name: model_l033_b018
+    description: Synthetic model in layer 33, branch 18.
+  - name: model_l033_b019
+    description: Synthetic model in layer 33, branch 19.
+  - name: model_l033_b020
+    description: Synthetic model in layer 33, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l034_b001
+    description: Synthetic model in layer 34, branch 1.
+  - name: model_l034_b002
+    description: Synthetic model in layer 34, branch 2.
+  - name: model_l034_b003
+    description: Synthetic model in layer 34, branch 3.
+  - name: model_l034_b004
+    description: Synthetic model in layer 34, branch 4.
+  - name: model_l034_b005
+    description: Synthetic model in layer 34, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l034_b006
+    description: Synthetic model in layer 34, branch 6.
+  - name: model_l034_b007
+    description: Synthetic model in layer 34, branch 7.
+  - name: model_l034_b008
+    description: Synthetic model in layer 34, branch 8.
+  - name: model_l034_b009
+    description: Synthetic model in layer 34, branch 9.
+  - name: model_l034_b010
+    description: Synthetic model in layer 34, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l034_b011
+    description: Synthetic model in layer 34, branch 11.
+  - name: model_l034_b012
+    description: Synthetic model in layer 34, branch 12.
+  - name: model_l034_b013
+    description: Synthetic model in layer 34, branch 13.
+  - name: model_l034_b014
+    description: Synthetic model in layer 34, branch 14.
+  - name: model_l034_b015
+    description: Synthetic model in layer 34, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l034_b016
+    description: Synthetic model in layer 34, branch 16.
+  - name: model_l034_b017
+    description: Synthetic model in layer 34, branch 17.
+  - name: model_l034_b018
+    description: Synthetic model in layer 34, branch 18.
+  - name: model_l034_b019
+    description: Synthetic model in layer 34, branch 19.
+  - name: model_l034_b020
+    description: Synthetic model in layer 34, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l035_b001
+    description: Synthetic model in layer 35, branch 1.
+  - name: model_l035_b002
+    description: Synthetic model in layer 35, branch 2.
+  - name: model_l035_b003
+    description: Synthetic model in layer 35, branch 3.
+  - name: model_l035_b004
+    description: Synthetic model in layer 35, branch 4.
+  - name: model_l035_b005
+    description: Synthetic model in layer 35, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l035_b006
+    description: Synthetic model in layer 35, branch 6.
+  - name: model_l035_b007
+    description: Synthetic model in layer 35, branch 7.
+  - name: model_l035_b008
+    description: Synthetic model in layer 35, branch 8.
+  - name: model_l035_b009
+    description: Synthetic model in layer 35, branch 9.
+  - name: model_l035_b010
+    description: Synthetic model in layer 35, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l035_b011
+    description: Synthetic model in layer 35, branch 11.
+  - name: model_l035_b012
+    description: Synthetic model in layer 35, branch 12.
+  - name: model_l035_b013
+    description: Synthetic model in layer 35, branch 13.
+  - name: model_l035_b014
+    description: Synthetic model in layer 35, branch 14.
+  - name: model_l035_b015
+    description: Synthetic model in layer 35, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l035_b016
+    description: Synthetic model in layer 35, branch 16.
+  - name: model_l035_b017
+    description: Synthetic model in layer 35, branch 17.
+  - name: model_l035_b018
+    description: Synthetic model in layer 35, branch 18.
+  - name: model_l035_b019
+    description: Synthetic model in layer 35, branch 19.
+  - name: model_l035_b020
+    description: Synthetic model in layer 35, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l036_b001
+    description: Synthetic model in layer 36, branch 1.
+  - name: model_l036_b002
+    description: Synthetic model in layer 36, branch 2.
+  - name: model_l036_b003
+    description: Synthetic model in layer 36, branch 3.
+  - name: model_l036_b004
+    description: Synthetic model in layer 36, branch 4.
+  - name: model_l036_b005
+    description: Synthetic model in layer 36, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l036_b006
+    description: Synthetic model in layer 36, branch 6.
+  - name: model_l036_b007
+    description: Synthetic model in layer 36, branch 7.
+  - name: model_l036_b008
+    description: Synthetic model in layer 36, branch 8.
+  - name: model_l036_b009
+    description: Synthetic model in layer 36, branch 9.
+  - name: model_l036_b010
+    description: Synthetic model in layer 36, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l036_b011
+    description: Synthetic model in layer 36, branch 11.
+  - name: model_l036_b012
+    description: Synthetic model in layer 36, branch 12.
+  - name: model_l036_b013
+    description: Synthetic model in layer 36, branch 13.
+  - name: model_l036_b014
+    description: Synthetic model in layer 36, branch 14.
+  - name: model_l036_b015
+    description: Synthetic model in layer 36, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l036_b016
+    description: Synthetic model in layer 36, branch 16.
+  - name: model_l036_b017
+    description: Synthetic model in layer 36, branch 17.
+  - name: model_l036_b018
+    description: Synthetic model in layer 36, branch 18.
+  - name: model_l036_b019
+    description: Synthetic model in layer 36, branch 19.
+  - name: model_l036_b020
+    description: Synthetic model in layer 36, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l037_b001
+    description: Synthetic model in layer 37, branch 1.
+  - name: model_l037_b002
+    description: Synthetic model in layer 37, branch 2.
+  - name: model_l037_b003
+    description: Synthetic model in layer 37, branch 3.
+  - name: model_l037_b004
+    description: Synthetic model in layer 37, branch 4.
+  - name: model_l037_b005
+    description: Synthetic model in layer 37, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l037_b006
+    description: Synthetic model in layer 37, branch 6.
+  - name: model_l037_b007
+    description: Synthetic model in layer 37, branch 7.
+  - name: model_l037_b008
+    description: Synthetic model in layer 37, branch 8.
+  - name: model_l037_b009
+    description: Synthetic model in layer 37, branch 9.
+  - name: model_l037_b010
+    description: Synthetic model in layer 37, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l037_b011
+    description: Synthetic model in layer 37, branch 11.
+  - name: model_l037_b012
+    description: Synthetic model in layer 37, branch 12.
+  - name: model_l037_b013
+    description: Synthetic model in layer 37, branch 13.
+  - name: model_l037_b014
+    description: Synthetic model in layer 37, branch 14.
+  - name: model_l037_b015
+    description: Synthetic model in layer 37, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l037_b016
+    description: Synthetic model in layer 37, branch 16.
+  - name: model_l037_b017
+    description: Synthetic model in layer 37, branch 17.
+  - name: model_l037_b018
+    description: Synthetic model in layer 37, branch 18.
+  - name: model_l037_b019
+    description: Synthetic model in layer 37, branch 19.
+  - name: model_l037_b020
+    description: Synthetic model in layer 37, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l038_b001
+    description: Synthetic model in layer 38, branch 1.
+  - name: model_l038_b002
+    description: Synthetic model in layer 38, branch 2.
+  - name: model_l038_b003
+    description: Synthetic model in layer 38, branch 3.
+  - name: model_l038_b004
+    description: Synthetic model in layer 38, branch 4.
+  - name: model_l038_b005
+    description: Synthetic model in layer 38, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l038_b006
+    description: Synthetic model in layer 38, branch 6.
+  - name: model_l038_b007
+    description: Synthetic model in layer 38, branch 7.
+  - name: model_l038_b008
+    description: Synthetic model in layer 38, branch 8.
+  - name: model_l038_b009
+    description: Synthetic model in layer 38, branch 9.
+  - name: model_l038_b010
+    description: Synthetic model in layer 38, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l038_b011
+    description: Synthetic model in layer 38, branch 11.
+  - name: model_l038_b012
+    description: Synthetic model in layer 38, branch 12.
+  - name: model_l038_b013
+    description: Synthetic model in layer 38, branch 13.
+  - name: model_l038_b014
+    description: Synthetic model in layer 38, branch 14.
+  - name: model_l038_b015
+    description: Synthetic model in layer 38, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l038_b016
+    description: Synthetic model in layer 38, branch 16.
+  - name: model_l038_b017
+    description: Synthetic model in layer 38, branch 17.
+  - name: model_l038_b018
+    description: Synthetic model in layer 38, branch 18.
+  - name: model_l038_b019
+    description: Synthetic model in layer 38, branch 19.
+  - name: model_l038_b020
+    description: Synthetic model in layer 38, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l039_b001
+    description: Synthetic model in layer 39, branch 1.
+  - name: model_l039_b002
+    description: Synthetic model in layer 39, branch 2.
+  - name: model_l039_b003
+    description: Synthetic model in layer 39, branch 3.
+  - name: model_l039_b004
+    description: Synthetic model in layer 39, branch 4.
+  - name: model_l039_b005
+    description: Synthetic model in layer 39, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l039_b006
+    description: Synthetic model in layer 39, branch 6.
+  - name: model_l039_b007
+    description: Synthetic model in layer 39, branch 7.
+  - name: model_l039_b008
+    description: Synthetic model in layer 39, branch 8.
+  - name: model_l039_b009
+    description: Synthetic model in layer 39, branch 9.
+  - name: model_l039_b010
+    description: Synthetic model in layer 39, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l039_b011
+    description: Synthetic model in layer 39, branch 11.
+  - name: model_l039_b012
+    description: Synthetic model in layer 39, branch 12.
+  - name: model_l039_b013
+    description: Synthetic model in layer 39, branch 13.
+  - name: model_l039_b014
+    description: Synthetic model in layer 39, branch 14.
+  - name: model_l039_b015
+    description: Synthetic model in layer 39, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l039_b016
+    description: Synthetic model in layer 39, branch 16.
+  - name: model_l039_b017
+    description: Synthetic model in layer 39, branch 17.
+  - name: model_l039_b018
+    description: Synthetic model in layer 39, branch 18.
+  - name: model_l039_b019
+    description: Synthetic model in layer 39, branch 19.
+  - name: model_l039_b020
+    description: Synthetic model in layer 39, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l040_b001
+    description: Synthetic model in layer 40, branch 1.
+  - name: model_l040_b002
+    description: Synthetic model in layer 40, branch 2.
+  - name: model_l040_b003
+    description: Synthetic model in layer 40, branch 3.
+  - name: model_l040_b004
+    description: Synthetic model in layer 40, branch 4.
+  - name: model_l040_b005
+    description: Synthetic model in layer 40, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l040_b006
+    description: Synthetic model in layer 40, branch 6.
+  - name: model_l040_b007
+    description: Synthetic model in layer 40, branch 7.
+  - name: model_l040_b008
+    description: Synthetic model in layer 40, branch 8.
+  - name: model_l040_b009
+    description: Synthetic model in layer 40, branch 9.
+  - name: model_l040_b010
+    description: Synthetic model in layer 40, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l040_b011
+    description: Synthetic model in layer 40, branch 11.
+  - name: model_l040_b012
+    description: Synthetic model in layer 40, branch 12.
+  - name: model_l040_b013
+    description: Synthetic model in layer 40, branch 13.
+  - name: model_l040_b014
+    description: Synthetic model in layer 40, branch 14.
+  - name: model_l040_b015
+    description: Synthetic model in layer 40, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l040_b016
+    description: Synthetic model in layer 40, branch 16.
+  - name: model_l040_b017
+    description: Synthetic model in layer 40, branch 17.
+  - name: model_l040_b018
+    description: Synthetic model in layer 40, branch 18.
+  - name: model_l040_b019
+    description: Synthetic model in layer 40, branch 19.
+  - name: model_l040_b020
+    description: Synthetic model in layer 40, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l041_b001
+    description: Synthetic model in layer 41, branch 1.
+  - name: model_l041_b002
+    description: Synthetic model in layer 41, branch 2.
+  - name: model_l041_b003
+    description: Synthetic model in layer 41, branch 3.
+  - name: model_l041_b004
+    description: Synthetic model in layer 41, branch 4.
+  - name: model_l041_b005
+    description: Synthetic model in layer 41, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l041_b006
+    description: Synthetic model in layer 41, branch 6.
+  - name: model_l041_b007
+    description: Synthetic model in layer 41, branch 7.
+  - name: model_l041_b008
+    description: Synthetic model in layer 41, branch 8.
+  - name: model_l041_b009
+    description: Synthetic model in layer 41, branch 9.
+  - name: model_l041_b010
+    description: Synthetic model in layer 41, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l041_b011
+    description: Synthetic model in layer 41, branch 11.
+  - name: model_l041_b012
+    description: Synthetic model in layer 41, branch 12.
+  - name: model_l041_b013
+    description: Synthetic model in layer 41, branch 13.
+  - name: model_l041_b014
+    description: Synthetic model in layer 41, branch 14.
+  - name: model_l041_b015
+    description: Synthetic model in layer 41, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l041_b016
+    description: Synthetic model in layer 41, branch 16.
+  - name: model_l041_b017
+    description: Synthetic model in layer 41, branch 17.
+  - name: model_l041_b018
+    description: Synthetic model in layer 41, branch 18.
+  - name: model_l041_b019
+    description: Synthetic model in layer 41, branch 19.
+  - name: model_l041_b020
+    description: Synthetic model in layer 41, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l042_b001
+    description: Synthetic model in layer 42, branch 1.
+  - name: model_l042_b002
+    description: Synthetic model in layer 42, branch 2.
+  - name: model_l042_b003
+    description: Synthetic model in layer 42, branch 3.
+  - name: model_l042_b004
+    description: Synthetic model in layer 42, branch 4.
+  - name: model_l042_b005
+    description: Synthetic model in layer 42, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l042_b006
+    description: Synthetic model in layer 42, branch 6.
+  - name: model_l042_b007
+    description: Synthetic model in layer 42, branch 7.
+  - name: model_l042_b008
+    description: Synthetic model in layer 42, branch 8.
+  - name: model_l042_b009
+    description: Synthetic model in layer 42, branch 9.
+  - name: model_l042_b010
+    description: Synthetic model in layer 42, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l042_b011
+    description: Synthetic model in layer 42, branch 11.
+  - name: model_l042_b012
+    description: Synthetic model in layer 42, branch 12.
+  - name: model_l042_b013
+    description: Synthetic model in layer 42, branch 13.
+  - name: model_l042_b014
+    description: Synthetic model in layer 42, branch 14.
+  - name: model_l042_b015
+    description: Synthetic model in layer 42, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l042_b016
+    description: Synthetic model in layer 42, branch 16.
+  - name: model_l042_b017
+    description: Synthetic model in layer 42, branch 17.
+  - name: model_l042_b018
+    description: Synthetic model in layer 42, branch 18.
+  - name: model_l042_b019
+    description: Synthetic model in layer 42, branch 19.
+  - name: model_l042_b020
+    description: Synthetic model in layer 42, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l043_b001
+    description: Synthetic model in layer 43, branch 1.
+  - name: model_l043_b002
+    description: Synthetic model in layer 43, branch 2.
+  - name: model_l043_b003
+    description: Synthetic model in layer 43, branch 3.
+  - name: model_l043_b004
+    description: Synthetic model in layer 43, branch 4.
+  - name: model_l043_b005
+    description: Synthetic model in layer 43, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l043_b006
+    description: Synthetic model in layer 43, branch 6.
+  - name: model_l043_b007
+    description: Synthetic model in layer 43, branch 7.
+  - name: model_l043_b008
+    description: Synthetic model in layer 43, branch 8.
+  - name: model_l043_b009
+    description: Synthetic model in layer 43, branch 9.
+  - name: model_l043_b010
+    description: Synthetic model in layer 43, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l043_b011
+    description: Synthetic model in layer 43, branch 11.
+  - name: model_l043_b012
+    description: Synthetic model in layer 43, branch 12.
+  - name: model_l043_b013
+    description: Synthetic model in layer 43, branch 13.
+  - name: model_l043_b014
+    description: Synthetic model in layer 43, branch 14.
+  - name: model_l043_b015
+    description: Synthetic model in layer 43, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l043_b016
+    description: Synthetic model in layer 43, branch 16.
+  - name: model_l043_b017
+    description: Synthetic model in layer 43, branch 17.
+  - name: model_l043_b018
+    description: Synthetic model in layer 43, branch 18.
+  - name: model_l043_b019
+    description: Synthetic model in layer 43, branch 19.
+  - name: model_l043_b020
+    description: Synthetic model in layer 43, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l044_b001
+    description: Synthetic model in layer 44, branch 1.
+  - name: model_l044_b002
+    description: Synthetic model in layer 44, branch 2.
+  - name: model_l044_b003
+    description: Synthetic model in layer 44, branch 3.
+  - name: model_l044_b004
+    description: Synthetic model in layer 44, branch 4.
+  - name: model_l044_b005
+    description: Synthetic model in layer 44, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l044_b006
+    description: Synthetic model in layer 44, branch 6.
+  - name: model_l044_b007
+    description: Synthetic model in layer 44, branch 7.
+  - name: model_l044_b008
+    description: Synthetic model in layer 44, branch 8.
+  - name: model_l044_b009
+    description: Synthetic model in layer 44, branch 9.
+  - name: model_l044_b010
+    description: Synthetic model in layer 44, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l044_b011
+    description: Synthetic model in layer 44, branch 11.
+  - name: model_l044_b012
+    description: Synthetic model in layer 44, branch 12.
+  - name: model_l044_b013
+    description: Synthetic model in layer 44, branch 13.
+  - name: model_l044_b014
+    description: Synthetic model in layer 44, branch 14.
+  - name: model_l044_b015
+    description: Synthetic model in layer 44, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l044_b016
+    description: Synthetic model in layer 44, branch 16.
+  - name: model_l044_b017
+    description: Synthetic model in layer 44, branch 17.
+  - name: model_l044_b018
+    description: Synthetic model in layer 44, branch 18.
+  - name: model_l044_b019
+    description: Synthetic model in layer 44, branch 19.
+  - name: model_l044_b020
+    description: Synthetic model in layer 44, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l045_b001
+    description: Synthetic model in layer 45, branch 1.
+  - name: model_l045_b002
+    description: Synthetic model in layer 45, branch 2.
+  - name: model_l045_b003
+    description: Synthetic model in layer 45, branch 3.
+  - name: model_l045_b004
+    description: Synthetic model in layer 45, branch 4.
+  - name: model_l045_b005
+    description: Synthetic model in layer 45, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l045_b006
+    description: Synthetic model in layer 45, branch 6.
+  - name: model_l045_b007
+    description: Synthetic model in layer 45, branch 7.
+  - name: model_l045_b008
+    description: Synthetic model in layer 45, branch 8.
+  - name: model_l045_b009
+    description: Synthetic model in layer 45, branch 9.
+  - name: model_l045_b010
+    description: Synthetic model in layer 45, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l045_b011
+    description: Synthetic model in layer 45, branch 11.
+  - name: model_l045_b012
+    description: Synthetic model in layer 45, branch 12.
+  - name: model_l045_b013
+    description: Synthetic model in layer 45, branch 13.
+  - name: model_l045_b014
+    description: Synthetic model in layer 45, branch 14.
+  - name: model_l045_b015
+    description: Synthetic model in layer 45, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l045_b016
+    description: Synthetic model in layer 45, branch 16.
+  - name: model_l045_b017
+    description: Synthetic model in layer 45, branch 17.
+  - name: model_l045_b018
+    description: Synthetic model in layer 45, branch 18.
+  - name: model_l045_b019
+    description: Synthetic model in layer 45, branch 19.
+  - name: model_l045_b020
+    description: Synthetic model in layer 45, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l046_b001
+    description: Synthetic model in layer 46, branch 1.
+  - name: model_l046_b002
+    description: Synthetic model in layer 46, branch 2.
+  - name: model_l046_b003
+    description: Synthetic model in layer 46, branch 3.
+  - name: model_l046_b004
+    description: Synthetic model in layer 46, branch 4.
+  - name: model_l046_b005
+    description: Synthetic model in layer 46, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l046_b006
+    description: Synthetic model in layer 46, branch 6.
+  - name: model_l046_b007
+    description: Synthetic model in layer 46, branch 7.
+  - name: model_l046_b008
+    description: Synthetic model in layer 46, branch 8.
+  - name: model_l046_b009
+    description: Synthetic model in layer 46, branch 9.
+  - name: model_l046_b010
+    description: Synthetic model in layer 46, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l046_b011
+    description: Synthetic model in layer 46, branch 11.
+  - name: model_l046_b012
+    description: Synthetic model in layer 46, branch 12.
+  - name: model_l046_b013
+    description: Synthetic model in layer 46, branch 13.
+  - name: model_l046_b014
+    description: Synthetic model in layer 46, branch 14.
+  - name: model_l046_b015
+    description: Synthetic model in layer 46, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l046_b016
+    description: Synthetic model in layer 46, branch 16.
+  - name: model_l046_b017
+    description: Synthetic model in layer 46, branch 17.
+  - name: model_l046_b018
+    description: Synthetic model in layer 46, branch 18.
+  - name: model_l046_b019
+    description: Synthetic model in layer 46, branch 19.
+  - name: model_l046_b020
+    description: Synthetic model in layer 46, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l047_b001
+    description: Synthetic model in layer 47, branch 1.
+  - name: model_l047_b002
+    description: Synthetic model in layer 47, branch 2.
+  - name: model_l047_b003
+    description: Synthetic model in layer 47, branch 3.
+  - name: model_l047_b004
+    description: Synthetic model in layer 47, branch 4.
+  - name: model_l047_b005
+    description: Synthetic model in layer 47, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l047_b006
+    description: Synthetic model in layer 47, branch 6.
+  - name: model_l047_b007
+    description: Synthetic model in layer 47, branch 7.
+  - name: model_l047_b008
+    description: Synthetic model in layer 47, branch 8.
+  - name: model_l047_b009
+    description: Synthetic model in layer 47, branch 9.
+  - name: model_l047_b010
+    description: Synthetic model in layer 47, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l047_b011
+    description: Synthetic model in layer 47, branch 11.
+  - name: model_l047_b012
+    description: Synthetic model in layer 47, branch 12.
+  - name: model_l047_b013
+    description: Synthetic model in layer 47, branch 13.
+  - name: model_l047_b014
+    description: Synthetic model in layer 47, branch 14.
+  - name: model_l047_b015
+    description: Synthetic model in layer 47, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l047_b016
+    description: Synthetic model in layer 47, branch 16.
+  - name: model_l047_b017
+    description: Synthetic model in layer 47, branch 17.
+  - name: model_l047_b018
+    description: Synthetic model in layer 47, branch 18.
+  - name: model_l047_b019
+    description: Synthetic model in layer 47, branch 19.
+  - name: model_l047_b020
+    description: Synthetic model in layer 47, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l048_b001
+    description: Synthetic model in layer 48, branch 1.
+  - name: model_l048_b002
+    description: Synthetic model in layer 48, branch 2.
+  - name: model_l048_b003
+    description: Synthetic model in layer 48, branch 3.
+  - name: model_l048_b004
+    description: Synthetic model in layer 48, branch 4.
+  - name: model_l048_b005
+    description: Synthetic model in layer 48, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l048_b006
+    description: Synthetic model in layer 48, branch 6.
+  - name: model_l048_b007
+    description: Synthetic model in layer 48, branch 7.
+  - name: model_l048_b008
+    description: Synthetic model in layer 48, branch 8.
+  - name: model_l048_b009
+    description: Synthetic model in layer 48, branch 9.
+  - name: model_l048_b010
+    description: Synthetic model in layer 48, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l048_b011
+    description: Synthetic model in layer 48, branch 11.
+  - name: model_l048_b012
+    description: Synthetic model in layer 48, branch 12.
+  - name: model_l048_b013
+    description: Synthetic model in layer 48, branch 13.
+  - name: model_l048_b014
+    description: Synthetic model in layer 48, branch 14.
+  - name: model_l048_b015
+    description: Synthetic model in layer 48, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l048_b016
+    description: Synthetic model in layer 48, branch 16.
+  - name: model_l048_b017
+    description: Synthetic model in layer 48, branch 17.
+  - name: model_l048_b018
+    description: Synthetic model in layer 48, branch 18.
+  - name: model_l048_b019
+    description: Synthetic model in layer 48, branch 19.
+  - name: model_l048_b020
+    description: Synthetic model in layer 48, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l049_b001
+    description: Synthetic model in layer 49, branch 1.
+  - name: model_l049_b002
+    description: Synthetic model in layer 49, branch 2.
+  - name: model_l049_b003
+    description: Synthetic model in layer 49, branch 3.
+  - name: model_l049_b004
+    description: Synthetic model in layer 49, branch 4.
+  - name: model_l049_b005
+    description: Synthetic model in layer 49, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l049_b006
+    description: Synthetic model in layer 49, branch 6.
+  - name: model_l049_b007
+    description: Synthetic model in layer 49, branch 7.
+  - name: model_l049_b008
+    description: Synthetic model in layer 49, branch 8.
+  - name: model_l049_b009
+    description: Synthetic model in layer 49, branch 9.
+  - name: model_l049_b010
+    description: Synthetic model in layer 49, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l049_b011
+    description: Synthetic model in layer 49, branch 11.
+  - name: model_l049_b012
+    description: Synthetic model in layer 49, branch 12.
+  - name: model_l049_b013
+    description: Synthetic model in layer 49, branch 13.
+  - name: model_l049_b014
+    description: Synthetic model in layer 49, branch 14.
+  - name: model_l049_b015
+    description: Synthetic model in layer 49, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l049_b016
+    description: Synthetic model in layer 49, branch 16.
+  - name: model_l049_b017
+    description: Synthetic model in layer 49, branch 17.
+  - name: model_l049_b018
+    description: Synthetic model in layer 49, branch 18.
+  - name: model_l049_b019
+    description: Synthetic model in layer 49, branch 19.
+  - name: model_l049_b020
+    description: Synthetic model in layer 49, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l050_b001
+    description: Synthetic model in layer 50, branch 1.
+  - name: model_l050_b002
+    description: Synthetic model in layer 50, branch 2.
+  - name: model_l050_b003
+    description: Synthetic model in layer 50, branch 3.
+  - name: model_l050_b004
+    description: Synthetic model in layer 50, branch 4.
+  - name: model_l050_b005
+    description: Synthetic model in layer 50, branch 5.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l050_b006
+    description: Synthetic model in layer 50, branch 6.
+  - name: model_l050_b007
+    description: Synthetic model in layer 50, branch 7.
+  - name: model_l050_b008
+    description: Synthetic model in layer 50, branch 8.
+  - name: model_l050_b009
+    description: Synthetic model in layer 50, branch 9.
+  - name: model_l050_b010
+    description: Synthetic model in layer 50, branch 10.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l050_b011
+    description: Synthetic model in layer 50, branch 11.
+  - name: model_l050_b012
+    description: Synthetic model in layer 50, branch 12.
+  - name: model_l050_b013
+    description: Synthetic model in layer 50, branch 13.
+  - name: model_l050_b014
+    description: Synthetic model in layer 50, branch 14.
+  - name: model_l050_b015
+    description: Synthetic model in layer 50, branch 15.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null
+  - name: model_l050_b016
+    description: Synthetic model in layer 50, branch 16.
+  - name: model_l050_b017
+    description: Synthetic model in layer 50, branch 17.
+  - name: model_l050_b018
+    description: Synthetic model in layer 50, branch 18.
+  - name: model_l050_b019
+    description: Synthetic model in layer 50, branch 19.
+  - name: model_l050_b020
+    description: Synthetic model in layer 50, branch 20.
+    columns:
+      - name: id
+        data_tests:
+          - not_null
+      - name: customer_group
+        data_tests:
+          - not_null

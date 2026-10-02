@@ -1,0 +1,7 @@
+fusion_benchmark:
+  target: benchmark
+  outputs:
+    benchmark:
+      type: duckdb
+      path: "{{ env_var('DUCKDB_PATH', 'warehouse/benchmark.duckdb') }}"
+      threads: 4

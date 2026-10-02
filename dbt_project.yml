@@ -1,0 +1,12 @@
+name: fusion_benchmark
+version: '1.0'
+config-version: 2
+
+profile: fusion_benchmark
+
+model-paths:
+  - models
+
+models:
+  fusion_benchmark:
+    +materialized: table

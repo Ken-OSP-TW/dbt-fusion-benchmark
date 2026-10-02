@@ -1,0 +1,37 @@
+# Local Python environments
+.venv-core/
+.venv-fusion/
+
+# Benchmark results
+benchmark_results/
+*.csv
+
+# Generated models
+models/generated/
+*.sql
+
+# dbt-generated artifacts
+target/
+dbt_packages/
+
+# Runtime logs
+logs/
+
+# Local DuckDB databases
+warehouse/
+*.duckdb
+*.duckdb.wal
+
+# Local configuration
+.user.yml
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
